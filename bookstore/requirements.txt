@@ -27,7 +27,6 @@ constantly==15.1.0
 cryptography==35.0.0
 cssselect==1.1.0
 cssselect2==0.4.1
-cx-Freeze @ file:///E:/TextEditor/cx_Freeze-6.5.3-cp37-cp37m-win_amd64.whl
 debugpy==1.4.1
 decorator==5.0.9
 defusedxml==0.7.1
